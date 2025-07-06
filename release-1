@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Release Branch</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .branch-box {
+            border: 2px solid #4CAF50;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            width: 300px;
+        }
+        .branch-title {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .branch-detail {
+            margin-top: 10px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="branch-box">
+        <div class="b
