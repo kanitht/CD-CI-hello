@@ -1,0 +1,2 @@
+#this is text3 file
+sample 3rd file
